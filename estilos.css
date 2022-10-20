@@ -1,0 +1,33 @@
+*{
+    color: white;
+    text-align: center;
+ }
+
+ #imgperfil{
+    border-radius: 200px;
+    border:solid 10px ;
+    border-color: rgb(10, 10, 228);
+ }
+
+.titulos{
+    font-size: 200%;
+    font-style: oblique;
+
+}
+
+ h2{
+    font-size: 300%;
+ }
+
+ .semititulos{
+    font-size: 120%;
+    font-style: unset;
+ }
+
+ #biografia{
+    width: 70vw;
+    text-align: center;
+    margin-left: 15%;
+   
+ }
+
