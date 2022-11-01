@@ -60,4 +60,10 @@ h2 {
    font-size: 130%;
 }
 
+.card-text{
+   color: black;
+}
 
+.card-title{
+   color: green;
+}
