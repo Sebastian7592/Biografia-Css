@@ -1,42 +1,63 @@
-*{
-    color: white;
-    text-align: center;
- }
+* {
+   color: white;
+   text-align: center;
+   font-family: 'Merienda';
+}
 
- #imgperfil{
-    border-radius: 200px;
-    border:solid 10px ;
-    border-color: rgb(10, 10, 228);
- }
+#imgperfil {
+   border-radius: 50px;
+   border: solid 5px;
+   border-color: rgb(10, 10, 228);
+   }
 
-.titulos{
-    font-size: 200%;
-    font-style: oblique;
+.titulos {
+   font-size: 200%;
+   font-style: oblique;
 
 }
 
- h2{
-    font-size: 300%;
- }
-
- .semititulos{
-    font-size: 120%;
-    font-style: unset;
- }
-
- #biografia{
-    width: 70vw;
-    text-align: center;
-    margin-left: 15%;
+h2 {
+   font-size: 300%;
 }
 
-#trayectoria{
+.semititulos {
+   font-size: 120%;
+   font-style: unset;
+}
+
+#biografia {
+   width: 70vw;
+   text-align: center;
+   margin-left: 15%;
+}
+
+#trayectoria {
    display: inline-block;
 }
 
 
 
-#familia{
+#familia {
    display: inline-block;
 }
+
+.tituloprimero{
+   color: wheat; font-size: 300%;
+}
+.titulosecundario{
+   color: blueviolet; font-size: 180%;
+}
+
+.tituloprimario{
+   font-size: 200%;
+}
+
+.titulo1{
+   font-size: 180%;
+}
+
+.titulo2{
+   font-size: 130%;
+}
+
 
